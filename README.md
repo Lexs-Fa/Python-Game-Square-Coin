@@ -1,1 +1,1 @@
-#Muito obrigado por baixar meu codigo, lembrando, instale a biblioteca pygame usando ''pip install pygame''
+#Thank u for install my code, u have to install the pygame library, u can do that with the command ''pip install pygame''
